@@ -1,0 +1,7 @@
+flask
+PyPDF2
+pdfplumber
+matplotlib
+scikit-learn
+spacy
+gunicorn
